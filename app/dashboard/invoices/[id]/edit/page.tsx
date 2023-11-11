@@ -12,6 +12,9 @@ export default async function Page({params}: {params: {id: string}}) {
   if (!invoice) {
     notFound();
   }
+  if (!customers) {
+    notFound();
+  }
   console.log("i'm here nigga", customers);
   return (
     <main>
