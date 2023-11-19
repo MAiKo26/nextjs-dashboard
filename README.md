@@ -48,4 +48,8 @@ Explore the live version of the Next.js Dashboard deployed on Vercel:
 
 Click this link to access the live demo: [Next.js Dashboard Live Demo](https://nextjs-dashboard-ten-sepia.vercel.app/)
 
+Email: user@nextmail.com
+
+Password: 123456
+
 
